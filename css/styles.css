@@ -16,6 +16,11 @@ body {
     position: relative;
     z-index: 30;
     margin-left: 10px;
+    transition: ease 0.5s;
+}
+
+.logo:hover {
+    opacity: 0.5
 }
 
 /*
